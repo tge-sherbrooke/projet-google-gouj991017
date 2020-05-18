@@ -10,36 +10,36 @@ li {
     font-size: 13px;
 }
 
-img.fright {
+img.topright {
     float: right;
     padding-right: 15px;
 }
 
-li.fright {
+li.topright {
     float: right;
     padding-right: 15px;
 }
 
-li.fleft {
+li.topleft {
     padding-left: 15px;
 }
 
-li.rfooter {
+li.rightfooter {
     float: right;  
     padding-right: 15px;
 }
 
-li.footer1 {
+li.leftfooter1 {
     padding-left: 15px;
     bottom: 20px;
 }
 
-li.footer2 {
+li.leftfooter2 {
     padding-left: 15px;
 }
 
-li.footer2, 
-li.rfooter {
+li.leftfooter2, 
+li.rightfooter {
     position: relative;
     bottom: 10px;
 }
