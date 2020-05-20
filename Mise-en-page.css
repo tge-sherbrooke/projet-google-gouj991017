@@ -24,6 +24,13 @@ li.topleft {
     padding-left: 15px;
 }
 
+li.topleft, 
+li.topright {
+    position: relative;
+    top: 10px;
+}
+
+
 li.rightfooter {
     float: right;  
     padding-right: 15px;
